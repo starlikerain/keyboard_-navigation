@@ -2,4 +2,10 @@
 点击后直接跳转到自己已绑定页面。
 默认 B - www.baidu.com
 默认 G - www.google.com
-[preview link](file:///Users/starlikerain/Documents/CODES_/Front-end-CODES/browser_navigation/index.html)
+
+
+
+
+
+
+[preview link](https://starlikerain.github.io/keyboard_-navigation/)
